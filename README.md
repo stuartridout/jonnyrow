@@ -27,8 +27,7 @@ This page serves as plain static HTML, so no build or workflow is required:
 
 1. Go to the repository's **Settings → Pages**.
 2. Under **Build and deployment → Source**, choose **Deploy from a branch**.
-3. Pick the branch that holds this file and the `/ (root)` folder, then
-   **Save**.
+3. Branch: **`main`** · Folder: **`/ (root)`** → **Save**.
 4. Wait ~1 minute and open the live URL above.
 
 The `.nojekyll` file tells GitHub Pages to serve the files as-is rather than
